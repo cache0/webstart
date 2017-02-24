@@ -1,0 +1,30 @@
+{
+  "name": "webstart",
+  "version": "1.0.0",
+  "description": "starting bootstrap template with some polugins",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cache0/webstart.git"
+  },
+  "keywords": [
+    "web",
+    "start",
+    "jquery",
+    "bootstrap"
+  ],
+  "author": "cache0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cache0/webstart/issues"
+  },
+  "homepage": "https://github.com/cache0/webstart#readme"
+}
