@@ -4,7 +4,7 @@
   "description": "starting bootstrap template with some polugins",
   "main": "index.js",
   "dependencies": {
-    "jquery": "^3.1.1",
+    "jquery": "^1.12.4",
     "bootstrap": "^3.3.7"
   },
   "devDependencies": {},
